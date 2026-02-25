@@ -46,5 +46,6 @@ This program covered the complete data analysis lifecycle:
 - Data-Driven Decision Making  
 
 ---
+Certification link:(https://www.coursera.org/account/accomplishments/specialization/certificate/W6UAKA9KQRQ0)
 
 📌 This repository includes my certificate and learning notes from the program.
